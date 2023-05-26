@@ -45,6 +45,15 @@ Please install the software listed below.
 
 [![Laravel API Screen Shot][laravelapi-screenshot]]
 
+10. To get the list of api in this project, you can go to `routes/api.php` or you can simply type this command in your terminal:
+    ```sh
+    public artisan route:list
+    ```
+11. You should get interface as below:
+
+[![Laravel API Route Screen Shot][laravelapi-route]]
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -64,6 +73,7 @@ Please install the software listed below.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [laravelapi-screenshot]: /public/images/screenshot.jpg
+[laravelapi-route]: /public/images/route.jpg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
