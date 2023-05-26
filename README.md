@@ -43,7 +43,7 @@ Please install the software listed below.
 8. Copy and paste this link `http://localhost/laravelapi/public/api/listAll` to access the api.
 9. You should get the interface as below.
 
-[![Laravel API Screen Shot][laravelapi-screenshot]]
+![Laravel API Screen Shot][laravelapi-screenshot]
 
 10. To get the list of api in this project, you can go to `routes/api.php` or you can simply type this command in your terminal:
     ```sh
@@ -51,7 +51,7 @@ Please install the software listed below.
     ```
 11. You should get interface as below:
 
-[![Laravel API Route Screen Shot][laravelapi-route]]
+![Laravel API Route Screen Shot][laravelapi-route]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
