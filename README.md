@@ -37,12 +37,14 @@ Please install the software listed below.
 2. Copy and paste `env.example` file in the same destination.
 3. Change the file to be `.env` only.
 4. Rename your database to any name you want.
-2. Now, copy this link (`http://localhost/procake`) and paste it in your browser. 
-5. You will be prompt to key in username and password. Use below credentials.
-   ```sh
-   username: admin
-   password: admin
-   ```
+5. To make it easy, you can rename the database to `laravelapi`.
+6. Create the database in laragon using the same name.
+7. Import the `laravelapi.sql` file in database in the laragon.
+8. Copy and paste this link `http://localhost/laravelapi/public/api/listAll` to access the api.
+9. You should get the interface as below.
+
+[![Laravel API Screen Shot][laravelapi-screenshot]]
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -61,7 +63,7 @@ Please install the software listed below.
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: /webroot/img/procake-library.jpg
+[laravelapi-screenshot]: /storage/app/public/images/screenshot.jpg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
