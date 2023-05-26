@@ -43,7 +43,7 @@ Please install the software listed below.
 8. Copy and paste this link `http://localhost/laravelapi/public/api/listAll` to access the api.
 9. You should get the interface as below.
 
-<!-- [![Laravel API Screen Shot][laravelapi-screenshot]] -->
+[![Laravel API Screen Shot][laravelapi-screenshot]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -63,7 +63,7 @@ Please install the software listed below.
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-<!-- [laravelapi-screenshot]: /storage/app/public/images/screenshot.jpg -->
+[laravelapi-screenshot]: /storage/app/public/images/screenshot.jpg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
